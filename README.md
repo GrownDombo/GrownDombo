@@ -56,5 +56,8 @@ SECS/GEM · OpenCV
 - 참여자별 풀이 방식 정리
 - 학습 내용 아카이빙
 
+
 ---
+
 ## [Tech Blog](https://growndombo.tistory.com/)
+실무 경험과 기술 학습 내용을 지속적으로 기록하고 있습니다.

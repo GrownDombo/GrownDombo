@@ -57,4 +57,4 @@ SECS/GEM · OpenCV
 - 학습 내용 아카이빙
 
 ---
-##[Tech Blog](https://growndombo.tistory.com/)
+## [Tech Blog](https://growndombo.tistory.com/)

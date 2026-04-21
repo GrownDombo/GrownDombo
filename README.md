@@ -4,7 +4,6 @@ C# / C++ 기반의 Windows 프로그램을 개발하고 있습니다.
 반도체/SMT 제조라인에서 사용되는 검사 장비 소프트웨어의 개발 및 유지보수 경험이 있으며,  
 공정 자동화, 생산 시스템 연동, UI 개선, 성능 최적화 업무를 수행해 왔습니다.
 
-[Tech Blog](https://growndombo.tistory.com/)
 
 ---
 
@@ -17,7 +16,7 @@ C# · C++ · Java · Python
 .NET Framework · WinForms · Android SDK
 
 **Database**  
-MySQL · MariaDB · SQLite
+MSSQL · MariaDB · SQLite
 
 **ORM**  
 iBATIS.NET
@@ -56,3 +55,6 @@ SECS/GEM · OpenCV
 - 프로그래머스 문제 풀이 공유
 - 참여자별 풀이 방식 정리
 - 학습 내용 아카이빙
+
+---
+##[Tech Blog](https://growndombo.tistory.com/)

@@ -17,7 +17,7 @@ C# · C++ · Java · Python
 .NET Framework · WinForms · Android SDK
 
 **Database**  
-MSSQL · MySQL · MariaDB · SQLite
+MySQL · MariaDB · SQLite
 
 **ORM**  
 iBATIS.NET

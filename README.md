@@ -40,8 +40,8 @@ SECS/GEM · OpenCV
 - [Condition Excel Painter](https://github.com/GrownDombo/Dombos_Projects/tree/main/GDombo_ConditionExcelPainter)  
   Excel 데이터를 조건에 따라 강조 표시하여 빠르게 확인할 수 있도록 만든 보조 프로그램
 
-- [RFID Searching Simulator](https://github.com/GrownDombo/Dombos_Projects/tree/main/GDombo_RFID_Searching)  
-  Prefix 기반 질의 방식으로 RFID Tag 충돌 탐색 흐름과 결과를 비교하기 위한 시뮬레이터
+### [RFID-Collision-Search-Simulator](https://github.com/GrownDombo/RFID-Collision-Search-Simulator)
+  RFID 충돌 탐색 과정을 재현하고, 재귀 방식과 반복 방식을 비교한 C++ 콘솔 시뮬레이터
 
 ### [DPACS](https://github.com/DPACS/DPACS)
 장애인 주차구역 단속 시스템 팀 프로젝트입니다.

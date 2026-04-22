@@ -43,7 +43,7 @@ SECS/GEM · OpenCV
 - [RFID Searching Simulator](https://github.com/GrownDombo/Dombos_Projects/tree/main/GDombo_RFID_Searching)  
   Prefix 기반 질의 방식으로 RFID Tag 충돌 탐색 흐름과 결과를 비교하기 위한 시뮬레이터
 
-### [DPACS](https://github.com/GrownDombo/DPACS)
+### [DPACS](https://github.com/DPACS/DPACS)
 장애인 주차구역 단속 시스템 팀 프로젝트입니다.
 
 - 영상처리 기능 개발 참여

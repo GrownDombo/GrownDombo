@@ -30,9 +30,9 @@ SECS/GEM · OpenCV
 
 **[WinForms Custom Controls](https://github.com/GrownDombo/WinFormsCustomControls)** - WinForms 환경에서 반복적으로 사용되는 UI 요소를 직접 구현한 커스텀 컨트롤 라이브러리
 
-**[Excel Condition Painter](https://github.com/GrownDombo/ExcelConditionPainter)** - Excel 데이터를 조건에 따라 강조 표시하고 결과를 내보낼 수 있도록 구현한 Windows Forms 기반 보조 도구
+**[Excel Condition Painter](https://github.com/GrownDombo/ExcelConditionPainter)** - Excel 데이터를 조건별로 강조 표시하고 결과를 저장하는 Windows Forms 도구
 
-**[CPUMemoryStressTest](https://github.com/GrownDombo/CPUMemoryStressTest)** - CPU 및 메모리 부하를 의도적으로 발생시켜 단일 처리와 병렬 처리 성능을 비교·기록하는 C++ 콘솔 테스트 도구
+**[CPUMemoryStressTest](https://github.com/GrownDombo/CPUMemoryStressTest)** - CPU·메모리 부하를 발생시켜 단일/병렬 처리 성능을 비교하는 C++ 콘솔 도구
 
 **[RFID Collision Search Simulator](https://github.com/GrownDombo/RFID-Collision-Search-Simulator)** - RFID 충돌 탐색 과정을 재현하고 재귀 방식과 반복 방식을 비교한 C++ 콘솔 시뮬레이터
 

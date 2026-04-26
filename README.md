@@ -34,8 +34,7 @@ SECS/GEM · OpenCV
 - [CustomControl DLL](https://github.com/GrownDombo/Dombos_Projects/tree/main/GDombo_CustomControl)  
   WinForms 환경에서 반복적으로 사용되는 UI 요소를 직접 구현한 커스텀 컨트롤 라이브러리
 
-- [Condition Excel Painter](https://github.com/GrownDombo/Dombos_Projects/tree/main/GDombo_ConditionExcelPainter)  
-  Excel 데이터를 조건에 따라 강조 표시하여 빠르게 확인할 수 있도록 만든 보조 프로그램
+**[Excel Condition Painter](https://github.com/GrownDombo/ExcelConditionPainter)** - Excel 데이터를 조건에 따라 강조 표시하고 결과를 내보낼 수 있도록 구현한 Windows Forms 기반 보조 도구
 
 **[CPUMemoryStressTest](https://github.com/GrownDombo/CPUMemoryStressTest)** - CPU 및 메모리 부하를 의도적으로 발생시켜 단일 처리와 병렬 처리 성능을 비교·기록하는 C++ 콘솔 테스트 도구
 

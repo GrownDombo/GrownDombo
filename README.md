@@ -28,11 +28,7 @@ SECS/GEM · OpenCV
 
 ## Projects
 
-### [Dombos_Projects](https://github.com/GrownDombo/Dombos_Projects)
-기능 단위로 구현한 개인 프로젝트를 정리한 저장소입니다.
-
-- [CustomControl DLL](https://github.com/GrownDombo/Dombos_Projects/tree/main/GDombo_CustomControl)  
-  WinForms 환경에서 반복적으로 사용되는 UI 요소를 직접 구현한 커스텀 컨트롤 라이브러리
+**[WinForms Custom Controls](https://github.com/GrownDombo/WinFormsCustomControls)** - WinForms 환경에서 반복적으로 사용되는 UI 요소를 직접 구현한 커스텀 컨트롤 라이브러리
 
 **[Excel Condition Painter](https://github.com/GrownDombo/ExcelConditionPainter)** - Excel 데이터를 조건에 따라 강조 표시하고 결과를 내보낼 수 있도록 구현한 Windows Forms 기반 보조 도구
 
@@ -48,5 +44,5 @@ SECS/GEM · OpenCV
 
 ---
 
-## [Tech Blog](https://growndombo.tistory.com/)
-실무 경험과 기술 학습 내용을 지속적으로 기록하고 있습니다.
+## Tech Blog
+[GrownDomboTistory](https://growndombo.tistory.com/) - 기술 학습 내용을 지속적으로 기록하고 있습니다.

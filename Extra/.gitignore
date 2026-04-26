@@ -1,0 +1,70 @@
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+
+# =========================
+# Build Output
+# =========================
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+[Dd]ebug/
+[Rr]elease/
+
+*.exe
+*.dll
+*.lib
+*.exp
+*.ilk
+*.pdb
+*.iobj
+*.ipdb
+*.tlog
+*.log
+*.pch
+*.idb
+*.lastbuildstate
+*.recipe
+
+
+# =========================
+# C++ / IntelliSense Cache
+# =========================
+*.ipch
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+*.opendb
+
+
+# =========================
+# Temporary Files
+# =========================
+*.tmp
+*.bak
+*.old
+*.cache
+
+
+# =========================
+# Visual Studio / Tooling
+# =========================
+*.dbmdl
+*.vssscc
+*.ncb
+*.aps
+*.psess
+*.vsp
+*.vspscc
+*.pidb
+*.cachefile
+_ReSharper*/

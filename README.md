@@ -28,6 +28,8 @@ SECS/GEM · OpenCV
 
 ## Projects
 
+**[Portfolio Website](https://github.com/GrownDombo/GrownDombo.github.io) / [Live Demo](https://growndombo.github.io)** - 개인 프로젝트와 개발 경험을 정리하고 GitHub Pages로 배포한 포트폴리오 웹사이트  
+
 **[WinForms Custom Controls](https://github.com/GrownDombo/WinFormsCustomControls)** - WinForms 환경에서 반복적으로 사용되는 UI 요소를 직접 구현한 커스텀 컨트롤 라이브러리
 
 **[Excel Condition Painter](https://github.com/GrownDombo/ExcelConditionPainter)** - Excel 데이터를 조건별로 강조 표시하고 결과를 저장하는 Windows Forms 도구

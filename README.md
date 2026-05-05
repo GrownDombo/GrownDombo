@@ -10,36 +10,16 @@
 
 ---
 
-## Work Highlights
-
-- 생산 시스템 연동 구조 개선으로 장애 이슈 메일 전분기 대비 약 70% 감소
-- 9만 × 39만 좌표 데이터 기준 ROI 겹침 판별 처리 시간 6분 20초에서 5초 수준으로 개선
-- 신규 고객사 생산 시스템 연동 시나리오 10개 이상 개발 및 유지보수
-- 복합키 자료구조 적용으로 단축키 응답 속도 2초에서 0.3초 수준으로 개선
-
----
-
-## Tech Stack
-
-- **Languages:** C# · C++/C++20 · Java · Python · TypeScript
-- **Windows App:** .NET Framework 4.8 · WinForms · Visual Studio · MSVC v143
-- **Database / Integration:** MSSQL · MariaDB · SQLite · iBATIS.NET · TCP/IP · FTP
-- **Domain Tech:** SECS/GEM · OpenCV · 제조라인 검사 장비 소프트웨어
-- **Web / Deploy:** React · Vite · GitHub Pages · GitHub Actions · Google Analytics 4
-- **Mobile:** Android SDK · Naver Map API
-
----
-
 ## Featured Projects
 
-| Project | Stack | Focus |
-| --- | --- | --- |
-| [Portfolio Website](https://github.com/GrownDombo/GrownDombo.github.io) / [Live Demo](https://growndombo.github.io) | React · TypeScript · Vite · GitHub Pages | 개인 프로젝트, 기술 스택, 개발 경험, 연락처를 정리한 포트폴리오 웹사이트. GitHub Actions 배포와 GA4 방문자 분석을 적용했습니다. |
-| [CPUMemoryStressTest](https://github.com/GrownDombo/CPUMemoryStressTest) | C++20 · MSVC · Windows | CPU/Memory 부하 테스트 도구. 대화형, Shell, CLI 모드와 JSON 출력, CSV 저장, preset, GitHub Releases 배포를 지원합니다. |
-| [ExcelConditionPainter](https://github.com/GrownDombo/ExcelConditionPainter) | C# · WinForms · ClosedXML | Excel 데이터를 조건별로 검색·강조하고 결과 파일로 내보내는 Windows Forms 도구. AND/OR 검색, 조건 우선순위, 색상 설정, 설치 파일 배포를 지원합니다. |
-| [WinFormsCustomControls](https://github.com/GrownDombo/WinFormsCustomControls) | C# · .NET Framework 4.8 · WinForms | 반복적으로 사용하는 WinForms UI 패턴을 DLL로 분리한 커스텀 컨트롤 라이브러리. 데모 실행 파일과 Release 배포 구성을 포함합니다. |
-| [RFIDSearchSimulator](https://github.com/GrownDombo/RFIDSearchSimulator) | C++ · STL · Visual Studio 2022 | Prefix 기반 RFID 태그 충돌 탐색을 재귀 방식과 반복 방식으로 구현하고, 질의 횟수·충돌 횟수·실행 시간을 비교하는 콘솔 시뮬레이터입니다. |
-| [ObjectReuseGuard](https://github.com/GrownDombo/ObjectReuseGuard) | .NET Analyzer | 비효율적인 객체 직접 생성을 제한하고 재사용 기반 패턴 사용을 유도하기 위해 초기 정리 중인 Analyzer 및 리소스 관리 도구입니다. |
+| Project | Description |
+| --- | --- |
+| [Portfolio Website](https://github.com/GrownDombo/GrownDombo.github.io) / [Live Demo](https://growndombo.github.io) | 개인 프로젝트와 개발 경험을 정리한 GitHub Pages 포트폴리오입니다. |
+| [CPUMemoryStressTest](https://github.com/GrownDombo/CPUMemoryStressTest) | CLI, Shell, 대화형 모드를 지원하는 Windows CPU/Memory 부하 테스트 도구입니다. |
+| [ExcelConditionPainter](https://github.com/GrownDombo/ExcelConditionPainter) | Excel 데이터를 조건별로 검색·강조하고 결과 파일로 내보내는 WinForms 도구입니다. |
+| [WinFormsCustomControls](https://github.com/GrownDombo/WinFormsCustomControls) | 반복적으로 사용하는 WinForms UI 패턴을 DLL로 분리한 커스텀 컨트롤 라이브러리입니다. |
+| [RFIDSearchSimulator](https://github.com/GrownDombo/RFIDSearchSimulator) | RFID 태그 충돌 탐색을 재귀 방식과 반복 방식으로 비교하는 C++ 콘솔 시뮬레이터입니다. |
+| [ObjectReuseGuard](https://github.com/GrownDombo/ObjectReuseGuard) | 객체 재사용 패턴을 유도하기 위해 초기 정리 중인 .NET Analyzer 프로젝트입니다. |
 
 ---
 
